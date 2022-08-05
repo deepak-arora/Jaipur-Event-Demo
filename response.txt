@@ -1,0 +1,7 @@
+{
+  "status": "true",
+  "detail": {
+    "eventname": "CopaDevOps Jaipur Event",
+    "place": "jaipur"
+  }
+}
